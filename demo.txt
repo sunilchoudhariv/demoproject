@@ -1,3 +1,5 @@
 This is master/main
 
 this is line 1 from developer1 as a master
+
+this is line 2
